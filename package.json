@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This in namaste react by akshy saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "\"Akshay saini\"",
+  "license": "ISC",
+  "homepage": "https://github.com/somkakade/namastereact#readme",
+  "dependencies": {
+    "parcel": "^2.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserlist": [
+    "last 2 Chrome version",
+    "last 2 Firefox version"
+  ]
+}
